@@ -13,3 +13,4 @@
 ### I guess I'll add a column for this and include the factor data for each row.
 
 ## fifth step is to create a second tidy dataset with average for each activity and each subject.
+### for this, I'll use the aggregate function and then perform a "write.csv" to get the file out.
